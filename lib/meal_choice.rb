@@ -3,5 +3,5 @@ def meal_choice(veg1,veg2,protein="meat")
   result = "A plate of #{protein} with #{veg1
   } and #{veg2}."
   puts result
-  return result
+  result
 end
