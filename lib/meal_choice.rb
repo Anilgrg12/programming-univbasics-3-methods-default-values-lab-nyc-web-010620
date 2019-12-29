@@ -4,4 +4,3 @@ def meal_choice(veg1,veg2,protein="meat")
   } and #{veg2}."
   puts result
   end
-  meal_choice("broccoli","macaroni")
